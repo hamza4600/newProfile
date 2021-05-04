@@ -4,7 +4,8 @@
 ![image](https://user-images.githubusercontent.com/62868878/116456837-575e2500-a880-11eb-8faf-6f600a1231fc.png)
 
 ### Home Page (light)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/62868878/117032770-62e99a00-ad1f-11eb-8b84-15e81fb36dc6.png)
+
 
 
 ### About Page
